@@ -1,3 +1,4 @@
+/* Seleccionando por ID (usa #) */
 #root {
   max-width: 1280px;
   margin: 0 auto;
@@ -5,6 +6,7 @@
   text-align: center;
 }
 
+/* Seleccionando por clase (usa .) */
 .logo {
   height: 6em;
   padding: 1.5em;
